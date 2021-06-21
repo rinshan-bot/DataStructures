@@ -8,14 +8,14 @@ In order to insert a new word into the trie, we need to first check whether any 
 <li>If yes, set the current node to be this child node, set the current character to the next character in the input word, and perform this step again</li>
 <li>If no, it means from this character onwards, we will need to create new nodes and insert them into the trie</li>
 </ul>
-<ul>
-  <li>t.insert("was")</li>
-  <li>t.insert("word")</li>
-  <li>t.insert("war")</li>
-  <li>t.insert("what")</li>
-  <li>t.insert("where")</li>
-  <li>t.query("wh")</li>
-</ul>
+<b>Insert following words to the trie
+<ol>
+  <li>insert("was")</li>
+  <li>insert("word")</li>
+  <li>insert("war")</li>
+  <li>insert("what")</li>
+  <li>insert("where")</li>
+</ol>
 So the output will be looks like the image in the directory
 # Searching
 ## Seach wh
