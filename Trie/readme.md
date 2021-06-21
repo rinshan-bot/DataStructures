@@ -16,6 +16,7 @@ In order to insert a new word into the trie, we need to first check whether any 
   <li><code>insert("war")</code></li>
   <li><code>insert("what")</code></li>
   <li><code>insert("where")</code></li>
+  <li><code>insert("work")</code></li>
 </ol><br>
 So the output will be looks like the image in the directory<br>
 
