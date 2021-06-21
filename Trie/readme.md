@@ -8,7 +8,7 @@ In order to insert a new word into the trie, we need to first check whether any 
 <li>If yes, set the current node to be this child node, set the current character to the next character in the input word, and perform this step again</li>
 <li>If no, it means from this character onwards, we will need to create new nodes and insert them into the trie</li>
 </ul>
-<b>Insert following words to the trie
+<b>Insert following words to the trie</b>
 <ol>
   <li>insert("was")</li>
   <li>insert("word")</li>
