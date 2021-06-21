@@ -9,14 +9,14 @@ In order to insert a new word into the trie, we need to first check whether any 
 <li>If no, it means from this character onwards, we will need to create new nodes and insert them into the trie</li>
 </ul>
 <b>Insert following words to the trie</b>
-<code>
+
 <ol>
-  <li>insert("was")</li>
-  <li>insert("word")</li>
-  <li>insert("war")</li>
-  <li>insert("what")</li>
-  <li>insert("where")</li>
-</ol></code><br>
+  <li><code>insert("was")</code></li>
+  <li><code>insert("word")</code></li>
+  <li><code>insert("war")</code></li>
+  <li><code>insert("what")</code></li>
+  <li><code>insert("where")</code></li>
+</ol><br>
 So the output will be looks like the image in the directory
 # Searching
 <br><span>Now search the word <code>wh</code></span><br>
