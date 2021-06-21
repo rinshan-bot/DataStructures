@@ -18,7 +18,7 @@ In order to insert a new word into the trie, we need to first check whether any 
 </ol>
 So the output will be looks like the image in the directory
 # Searching
-<br><span>Now search the word wh</span><br>
+<br><span>Now search the word <code>wh</code></span><br>
 <ul>
 <li>Starting from the root node, we are able to find the node w and a</li>
 <li>From the node a, we can go on to traverse the trie to retrieve all words starting with the prefix wa</li>
