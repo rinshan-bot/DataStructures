@@ -16,8 +16,7 @@ In order to insert a new word into the trie, we need to first check whether any 
   <li>insert("war")</li>
   <li>insert("what")</li>
   <li>insert("where")</li>
-</ol>
-</code><br>
+</ol></code><br>
 So the output will be looks like the image in the directory
 # Searching
 <br><span>Now search the word <code>wh</code></span><br>
